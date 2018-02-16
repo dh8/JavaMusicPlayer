@@ -5,7 +5,7 @@ I have a build of this program that you can download on dropbox
 https://www.dropbox.com/sh/1upfwq2e2y76kfg/AAAZgPg79PevMhhWsVbs8vjVa?dl=0
 
 Run on the command line.
-run java -cp musicPlayer.jar cs3500.music.MusicEditor mystery-3.txt magic
+java -cp musicPlayer.jar cs3500.music.MusicEditor mystery-3.txt magic
 
 
 THE DESIGN
